@@ -15,3 +15,6 @@ I'm learning Git and version control to track my work.
 
 ## I want to see if git log would spot this difference
 - Let's what what hte git log would pop up as
+
+## This is for me to come back to
+- Phil, you gotta lock in if you want what you dream of
